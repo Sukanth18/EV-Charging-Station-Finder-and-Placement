@@ -1,0 +1,68 @@
+{
+    "FT_Transformer_Only": {
+        "objective": 0.128816490013267,
+        "runtime_sec": 0.018890380859375,
+        "coverage": 0.6493506493506493,
+        "loss_term": 0.06079118518967032,
+        "capacity_penalty": 0.03300000000000001,
+        "voltage_term": 0.0,
+        "avg_cost": 19.377234203700002,
+        "avg_predicted_suitability": 0.6915554106235504,
+        "selected_ids": [
+            "Station_228",
+            "Station_191",
+            "Station_337",
+            "Station_408",
+            "Station_98",
+            "Station_84",
+            "Station_112",
+            "Station_394",
+            "Station_186",
+            "Station_445"
+        ]
+    },
+    "FT_Transformer_HGAMSSA_Best": {
+        "objective": 0.10160537159091516,
+        "runtime_sec": 7.333200931549072,
+        "coverage": 0.7662337662337663,
+        "loss_term": 0.0048903199052161206,
+        "capacity_penalty": 0.01100000000000001,
+        "voltage_term": 0.0,
+        "avg_cost": 26.415018259,
+        "avg_predicted_suitability": 0.6085063755512238,
+        "selected_ids": [
+            "Station_140",
+            "Station_41",
+            "Station_319",
+            "Station_135",
+            "Station_446",
+            "Station_77",
+            "Station_165",
+            "Station_358",
+            "Station_385",
+            "Station_315"
+        ]
+    },
+    "FT_Transformer_PSO_DS_Best": {
+        "objective": 0.04491103467463785,
+        "runtime_sec": 6.819137096405029,
+        "coverage": 0.9242424242424242,
+        "loss_term": 0.003864131641101643,
+        "capacity_penalty": 0.0,
+        "voltage_term": 0.0,
+        "avg_cost": 25.019831797499997,
+        "avg_predicted_suitability": 0.6329118371009826,
+        "selected_ids": [
+            "Station_147",
+            "Station_239",
+            "Station_402",
+            "Station_337",
+            "Station_408",
+            "Station_236",
+            "Station_484",
+            "Station_84",
+            "Station_422",
+            "Station_426"
+        ]
+    }
+}

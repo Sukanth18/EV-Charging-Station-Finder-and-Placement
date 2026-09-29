@@ -1,0 +1,14 @@
+venv/
+build/
+__pycache__/
+*.pyc
+.env
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pt_tmp/
+lightning_logs/
+*.ckpt
+*.pth
+*.pt
+.idea/

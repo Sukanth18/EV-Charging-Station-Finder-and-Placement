@@ -1,0 +1,75 @@
+{
+    "HGAMSSA": {
+        "best_objective": 0.12023506216058075,
+        "coverage": 0.7965367965367965,
+        "loss_term": 0.004703123101197437,
+        "capacity_penalty": 0.0,
+        "voltage_term": 0.25115999999999994,
+        "avg_cost": 15.165994765500002,
+        "runtime_sec": 9.40474557876587,
+        "selected_ids": [
+            "Station_391",
+            "Station_164",
+            "Station_431",
+            "Station_386",
+            "Station_237",
+            "Station_497",
+            "Station_83",
+            "Station_195",
+            "Station_385",
+            "Station_473"
+        ]
+    },
+    "PSO_DS_Default": {
+        "best_objective": 0.06823897191283843,
+        "coverage": 0.9285714285714286,
+        "loss_term": 0.003942173365639437,
+        "capacity_penalty": 0.0,
+        "voltage_term": 0.25788,
+        "avg_cost": 17.5771744806,
+        "runtime_sec": 6.159203767776489,
+        "selected_ids": [
+            "Station_2",
+            "Station_90",
+            "Station_41",
+            "Station_337",
+            "Station_436",
+            "Station_263",
+            "Station_123",
+            "Station_4",
+            "Station_175",
+            "Station_164"
+        ]
+    },
+    "PSO_DS_FineTuned": {
+        "best_objective": 0.06690060059953855,
+        "coverage": 0.9329004329004329,
+        "loss_term": 0.0038230950388468614,
+        "capacity_penalty": 0.0,
+        "voltage_term": 0.2607,
+        "avg_cost": 17.847572398,
+        "runtime_sec": 11.484969139099121,
+        "selected_ids": [
+            "Station_413",
+            "Station_366",
+            "Station_337",
+            "Station_168",
+            "Station_365",
+            "Station_14",
+            "Station_450",
+            "Station_310",
+            "Station_422",
+            "Station_227"
+        ],
+        "best_parameters": {
+            "swarm_size": 30,
+            "iterations": 60,
+            "w": 0.72,
+            "c1": 1.49,
+            "c2": 1.3,
+            "mean_obj": 0.07298350169183733,
+            "std_obj": 0.0015895963420207678,
+            "mean_runtime_sec": 6.5930618445078535
+        }
+    }
+}
